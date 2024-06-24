@@ -32,3 +32,4 @@ Climbing</br>
 Running</br>
 Soccer</br>
 Table tennis</br>
+Yoga</br>
