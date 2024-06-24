@@ -34,3 +34,4 @@ Soccer</br>
 Handball</br>
 Table tennis</br>
 Yoga</br>
+Cycling</br>
