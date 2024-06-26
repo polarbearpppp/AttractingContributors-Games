@@ -36,3 +36,4 @@ Table tennis</br>
 Yoga</br>
 Cycling</br>
 Cricket<br/>
+Weight Training<br/>
